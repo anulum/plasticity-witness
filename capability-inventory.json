@@ -1,0 +1,12 @@
+{
+  "capabilities": [],
+  "claims": [],
+  "evidence_maturity": "architecture_only",
+  "lifecycle": "local_scaffold",
+  "qualified_owned_schema_ids": [],
+  "repository_name": "PLASTICITY-WITNESS",
+  "source_metadata": {
+    "path": "repository-domain.json",
+    "sha256": "227867f1caaf68826f187b888dc122b3385878a826af015aef1c310a2529294b"
+  }
+}

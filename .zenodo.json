@@ -6,10 +6,11 @@
       "orcid": "0009-0009-3560-0851"
     }
   ],
-  "description": "Architecture-only repository validation tooling and design for independent source-bound learning-rule comparison. No installed build-evidence package, vendor execution or qualified bitstream or physical result is released.",
+  "description": "Architecture-only repository validation tooling and design for independent source-bound learning-rule comparison. No learning oracle, protocol runner, qualified learning report or physical measurement is released.",
   "keywords": [
-    "FPGA",
-    "build provenance",
+    "learning-rule comparison",
+    "synaptic plasticity",
+    "stochastic computing",
     "reproducibility"
   ],
   "license": "AGPL-3.0-or-later",

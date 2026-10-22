@@ -16,7 +16,7 @@ Source is licensed under [AGPL-3.0-or-later](LICENSE). Commercial licensing is a
 
 The ANULUM and Fortis Studio branding assets retain their original attribution. External frameworks, model sources, reference datasets and future development distributions retain their own licences. A source licence does not grant rights to private recordings, signatures, credentials or trademarks beyond their stated terms.
 
-The following owner reservation was added to this repository on 2026-10-20.
+The following owner reservation was added to this repository on 2026-10-22.
 
 ## Text and data mining reservation
 

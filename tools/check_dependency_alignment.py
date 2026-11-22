@@ -22,7 +22,7 @@ from typing import TextIO, TypedDict, cast
 
 from bootstrap_native_tools import bootstrap_native_tools
 
-PROVENANCE_SHA256 = "6d8448f67581de4dac10a282f7810b6316fec4042ea01a075cc120f784e6256b"
+PROVENANCE_SHA256 = "60db99f09d0ea667d11b827bcbcdb7e0132c4f77089f49d566a719fc8a7969f2"
 MAX_INPUT_BYTES = 2_097_152
 
 

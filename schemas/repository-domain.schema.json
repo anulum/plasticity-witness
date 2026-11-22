@@ -45,7 +45,7 @@
           "const": "3.13"
         },
         "development_lock_sha256": {
-          "const": "120380820fe21e0710e16104c026ee91496c6c584d7e63a3e92ddc6852e84033"
+          "const": "7422d50caaf3fa8e7db07c42cc280a8d1e71faa95149d56ebda6586b188f594f"
         },
         "supported_range": {
           "const": ">=3.13.16,<3.14"

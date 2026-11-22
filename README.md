@@ -12,6 +12,8 @@ PLASTICITY-WITNESS — repository foundation
 
 Plasticity Witness is being built to compare learning-rule updates against an independent reference, preserving the actual rule, numerical realization, complete stimulus and observed state. This checkout contains repository validation tooling and documentation. Full foundation qualification is in progress. There is no installed learning-rule comparison package, plasticity runner, public plasticity-analysis command or qualified learning report.
 
+Plasticity Witness is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 ## Boundary
 
 This project owns the intended independent oracle, protocol population, update or supported distributional comparison and learning report. SC-NeuroCore retains the implementations under test. Loop Timing Witness owns capture and timebase; Evidence Manifest Toolkit supplies shared evidence operations. SC Stream Prover and Randomness Witness supply separately qualified arithmetic and source evidence when a distributional comparison requires them.
